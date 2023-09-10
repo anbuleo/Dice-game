@@ -1,0 +1,27 @@
+header{
+    text-align: center;
+
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    padding: 4em;
+}
+.left,.right{
+    text-align: center;
+    
+}
+footer{
+    text-align: center;
+}
+#player-1-score,#player-2-score{
+    font-weight: 900;
+    font-size: 30px;
+}
+#rollButton1,#rollButton2{
+    background-color: green;
+    border: none;
+    padding: 0em 1em;
+    color: #fff;
+}
+
